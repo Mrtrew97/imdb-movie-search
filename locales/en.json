@@ -1,0 +1,59 @@
+{
+  "app": {
+    "titulo": "🎬 IMDb Movie Search Engine",
+    "subtitulo": "Find movies even if you don't remember the exact title.",
+    "voltarAoTopo": "Back to top"
+  },
+  "erros": {
+    "ficheiroNaoEncontrado": "The dataset file (top_1000_imdb_movies.csv) was not found. Please ensure the file is in the root directory."
+  },
+  "pesquisa": {
+    "label": "What movie are you looking for?",
+    "placeholder": "Type the title or keywords...",
+    "resultadosEncontrados": "Results found:",
+    "semResultados": "No movies found matching your search."
+  },
+  "visualizacao": {
+    "grelha": "Grid view",
+    "tabela": "Table view"
+  },
+  "ordenacao": {
+    "label": "Sort by:",
+    "relevancia": "Relevance",
+    "classificacaoDesc": "Rating ↓",
+    "classificacaoAsc": "Rating ↑",
+    "anoDesc": "Year ↓",
+    "anoAsc": "Year ↑",
+    "duracaoDesc": "Duration ↓",
+    "duracaoAsc": "Duration ↑",
+    "tituloAsc": "Alphabetical (A-Z)",
+    "tituloDesc": "Alphabetical (Z-A)"
+  },
+  "tabela": {
+    "titulo": "Movie title",
+    "classificacao": "Rating",
+    "ano": "Year",
+    "duracao": "Duration",
+    "descricao": "Description"
+  },
+  "paginacao": {
+    "porPagina": "Movies per page:",
+    "pagina": "Page",
+    "de": "of",
+    "anterior": "◀ Previous",
+    "seguinte": "Next ▶",
+    "catalogoCompleto": "Complete IMDb catalogue",
+    "totalFilmes": "movies in the catalogue",
+    "primeiraPagina": "First page",
+    "ultimaPagina": "Last page"
+  },
+  "card": {
+    "similaridade": "similarity",
+    "ano": "Year",
+    "classificacao": "Rating",
+    "duracao": "Duration",
+    "minutos": "min",
+    "sinopse": "Synopsis",
+    "naoDisponivel": "N/A"
+  }
+}

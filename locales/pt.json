@@ -1,0 +1,59 @@
+{
+  "app": {
+    "titulo": "🎬 Motor de Pesquisa de Filmes IMDb",
+    "subtitulo": "Encontra filmes mesmo sem te lembrares do título exato.",
+    "voltarAoTopo": "Voltar ao topo"
+  },
+  "erros": {
+    "ficheiroNaoEncontrado": "O ficheiro de dados (top_1000_imdb_movies.csv) não foi encontrado. Certifica-te de que o ficheiro está na pasta raiz da aplicação."
+  },
+  "pesquisa": {
+    "label": "Que filme procuras?",
+    "placeholder": "Escreve o título ou palavras-chave...",
+    "resultadosEncontrados": "Resultados encontrados:",
+    "semResultados": "Nenhum filme encontrado para a pesquisa introduzida."
+  },
+  "visualizacao": {
+    "grelha": "Vista em grelha",
+    "tabela": "Vista em tabela"
+  },
+  "ordenacao": {
+    "label": "Ordenar por:",
+    "relevancia": "Relevância",
+    "classificacaoDesc": "Classificação ↓",
+    "classificacaoAsc": "Classificação ↑",
+    "anoDesc": "Ano ↓",
+    "anoAsc": "Ano ↑",
+    "duracaoDesc": "Duração ↓",
+    "duracaoAsc": "Duração ↑",
+    "tituloAsc": "Alfabético (A-Z)",
+    "tituloDesc": "Alfabético (Z-A)"
+  },
+  "tabela": {
+    "titulo": "Título do filme",
+    "classificacao": "Classificação",
+    "ano": "Ano",
+    "duracao": "Duração",
+    "descricao": "Descrição"
+  },
+  "paginacao": {
+    "porPagina": "Filmes por página:",
+    "pagina": "Página",
+    "de": "de",
+    "anterior": "◀ Anterior",
+    "seguinte": "Seguinte ▶",
+    "catalogoCompleto": "Catálogo completo do IMDb",
+    "totalFilmes": "filmes no catálogo",
+    "primeiraPagina": "Primeira página",
+    "ultimaPagina": "Última página"
+  },
+  "card": {
+    "similaridade": "similaridade",
+    "ano": "Ano",
+    "classificacao": "Classificação",
+    "duracao": "Duração",
+    "minutos": "min",
+    "sinopse": "Sinopse",
+    "naoDisponivel": "N/D"
+  }
+}

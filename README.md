@@ -6,7 +6,8 @@
 > **Ano:** 2026  
 > **Classificação Final:** 🏆 *Em Breve*
 
-O Motor de Pesquisa de Filmes IMDb é uma aplicação web interativa desenvolvida como projeto final do curso de Programação em Python da Master.D. O objetivo foi criar um motor de pesquisa capaz de explorar o dataset dos 1000 melhores filmes do IMDb, combinando tratamento e análise de dados com Pandas, pesquisa aproximada (fuzzy matching), equivalências em Português de Portugal e uma interface web desenvolvida com Streamlit.
+O Motor de Pesquisa de Filmes IMDb é uma aplicação web interativa desenvolvida como projeto final do curso de Programação em Python da Master.D. O objetivo foi criar um motor de pesquisa capaz de explorar o dataset dos 1000 melhores filmes do IMDb, combinando tratamento e análise de dados com Pandas, pesquisa aproximada (*fuzzy matching*), equivalências em Português de Portugal e uma interface web desenvolvida com Streamlit.
+
 ---
 
 ## ✨ Características Principais

@@ -280,7 +280,7 @@ O projeto foi desenvolvido como **Projeto Final do curso de Programação em Pyt
 
 Ao longo do desenvolvimento foram aplicados conhecimentos de programação em Python, importação, limpeza e tratamento de dados com `pandas`, pesquisa aproximada com `rapidfuzz` e desenvolvimento de uma interface web interativa com Streamlit.
 
-**Classificação Final:** 🏆 *Em Breve*
+**Classificação Final:** 🏆 20/20
 
 ---
 
